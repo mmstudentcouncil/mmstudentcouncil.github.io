@@ -1,0 +1,36 @@
+h1 {
+    color:aquamarine;
+    font-family: fantasy
+}
+
+.horse {
+/*    shape-image-threshold: 12*/
+    color:aqua;
+    text-shadow: 20px 20px 20px grey
+        
+}
+.dog {
+/*    shape-image-threshold: 12*/
+    color:blue;
+    font-family:cursive;
+    font-size: 250%;
+}
+
+.emmanuel {
+    text-align: justify;
+}
+
+body {
+    background-color: rgb(31, 242, 207)
+}
+
+a {
+   background-color: blue
+}
+.green-box {
+    background-color: palegreen;
+    width: 400px;
+    height: 400px;
+    align-self: center
+    
+}

@@ -1,0 +1,12 @@
+h2{
+    color: darkcyan;
+    align-self: center;
+    font-family: monospace;
+}
+
+p{
+   color: darkred;
+}
+.body{
+    padding: 100px, 100px,  100px, 100px;
+}
